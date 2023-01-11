@@ -5,9 +5,6 @@
  * This header file provides an abstraction of the basic data manipulation,
  * converting data from int to ASCII, and vice-versa
  *
- * @author Mohammed Abdelalim
- * @date 24/10/2020
- *
  */
 
 #ifndef __data_H__
