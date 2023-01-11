@@ -1,16 +1,3 @@
-/**
- * @file data.c
- * @brief Abstraction of the basic data manipulation operations
- *
- * This implementation file provides an abstraction of the basic data manipulation operations
- * like converting integer to string and vice versa via function calls.
- * 
- * @author Mohammed Abdelalim
- * @date 26/10/2020
- *
- */
-
-
 #include "../include/common/memory.h"
 #include "../include/common/data.h"
 #include "../include/common/platform.h"
