@@ -1,11 +1,3 @@
-/**
- * @file main.c
- * 
- * @author Mohammed Abdelalim
- * @date 26/10/2020
- *
- */
-
 #include "../include/common/course1.h"
 #include "../include/common/memory.h"
 #include "../include/common/stats.h"
