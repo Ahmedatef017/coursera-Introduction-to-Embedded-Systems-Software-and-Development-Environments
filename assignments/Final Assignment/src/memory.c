@@ -1,25 +1,3 @@
-/******************************************************************************
- * Copyright (C) 2017 by Alex Fosdick - University of Colorado
- *
- * Redistribution, modification or use of this software in source or binary
- * forms is permitted as long as the files maintain this copyright. Users are 
- * permitted to modify this and use it to learn about the field of embedded
- * software. Alex Fosdick and the University of Colorado are not liable for any
- * misuse of this material. 
- *
- *****************************************************************************/
-/**
- * @file memory.c
- * @brief Abstraction of memory read, write, and manipulation operations
- *
- * This implementation file provides an abstraction of reading and
- * writing to memory via function calls.
- * 
- * @author Alex Fosdick
- * @date 1/4/2017
- * @edited 24/10/2020 by Mohammed Abdelalim
- *
- */
 #include "../include/common/memory.h"
 #include <stddef.h>
 
