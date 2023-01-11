@@ -1,27 +1,3 @@
-/******************************************************************************
- * Copyright (C) 2017 by Alex Fosdick - University of Colorado
- *
- * Redistribution, modification or use of this software in source or binary
- * forms is permitted as long as the files maintain this copyright. Users are 
- * permitted to modify this and use it to learn about the field of embedded
- * software. Alex Fosdick and the University of Colorado are not liable for any
- * misuse of this material. 
- *
- *****************************************************************************/
-/**
- * @file stats.c
- * @brief The implementation file of the c1m1 assignment
- *
- * This file includes all the required functions implementations in the c1m1 assignment
- *
- * @author Mohammed Abdelalim
- * @date 7/9/2020
- * @edited 24/10/2020  
- *
- */
-
-
-
 #include <stdio.h>
 #include "../include/common/stats.h"
 #include "../include/common/platform.h"
